@@ -1,0 +1,6 @@
+A:\VS_PROJECT\WORKSPACE\VideoPath\SWFExtractor\bin\Debug\SWFExtractor.dll
+A:\VS_PROJECT\WORKSPACE\VideoPath\SWFExtractor\bin\Debug\SWFExtractor.pdb
+A:\VS_PROJECT\WORKSPACE\VideoPath\SWFExtractor\bin\Debug\Newtonsoft.Json.dll
+A:\VS_PROJECT\WORKSPACE\VideoPath\SWFExtractor\obj\Debug\SWFExtractor.csprojResolveAssemblyReference.cache
+A:\VS_PROJECT\WORKSPACE\VideoPath\SWFExtractor\obj\Debug\SWFExtractor.dll
+A:\VS_PROJECT\WORKSPACE\VideoPath\SWFExtractor\obj\Debug\SWFExtractor.pdb

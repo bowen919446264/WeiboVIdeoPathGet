@@ -1,0 +1,16 @@
+A:\VS_PROJECT\WORKSPACE\VideoPath\SWFExtratorClient\bin\Debug\SWFExtratorClient.exe.config
+A:\VS_PROJECT\WORKSPACE\VideoPath\SWFExtratorClient\bin\Debug\SWFExtratorClient.exe
+A:\VS_PROJECT\WORKSPACE\VideoPath\SWFExtratorClient\bin\Debug\SWFExtratorClient.pdb
+A:\VS_PROJECT\WORKSPACE\VideoPath\SWFExtratorClient\bin\Debug\SWFExtractor.dll
+A:\VS_PROJECT\WORKSPACE\VideoPath\SWFExtratorClient\bin\Debug\Newtonsoft.Json.dll
+A:\VS_PROJECT\WORKSPACE\VideoPath\SWFExtratorClient\bin\Debug\SWFExtractor.pdb
+A:\VS_PROJECT\WORKSPACE\VideoPath\SWFExtratorClient\obj\x86\Debug\SWFExtratorClient.csprojResolveAssemblyReference.cache
+A:\VS_PROJECT\WORKSPACE\VideoPath\SWFExtratorClient\obj\x86\Debug\MainWindow.baml
+A:\VS_PROJECT\WORKSPACE\VideoPath\SWFExtratorClient\obj\x86\Debug\MainWindow.g.cs
+A:\VS_PROJECT\WORKSPACE\VideoPath\SWFExtratorClient\obj\x86\Debug\App.g.cs
+A:\VS_PROJECT\WORKSPACE\VideoPath\SWFExtratorClient\obj\x86\Debug\SWFExtratorClient_MarkupCompile.cache
+A:\VS_PROJECT\WORKSPACE\VideoPath\SWFExtratorClient\obj\x86\Debug\SWFExtratorClient.g.resources
+A:\VS_PROJECT\WORKSPACE\VideoPath\SWFExtratorClient\obj\x86\Debug\SWFExtratorClient.Properties.Resources.resources
+A:\VS_PROJECT\WORKSPACE\VideoPath\SWFExtratorClient\obj\x86\Debug\SWFExtratorClient.csproj.GenerateResource.Cache
+A:\VS_PROJECT\WORKSPACE\VideoPath\SWFExtratorClient\obj\x86\Debug\SWFExtratorClient.exe
+A:\VS_PROJECT\WORKSPACE\VideoPath\SWFExtratorClient\obj\x86\Debug\SWFExtratorClient.pdb
